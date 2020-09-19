@@ -1,0 +1,3 @@
+[pytest11]
+trio = pytest_trio.plugin
+

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1cf90732-1272-401e-98d0-8bb2d1847d48" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/jsonbender/core.py" beforeDir="false" afterPath="$PROJECT_DIR$/jsonbender/core.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsonbender/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/jsonbender/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_core.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_core.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_list_ops.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_list_ops.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1gRc4mVbm6EsLQk4XBsUA9QYr9a" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1cf90732-1272-401e-98d0-8bb2d1847d48" name="Default Changelist" comment="" />
+      <created>1598080656972</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598080656972</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2653" y="273" width="424" height="491" key="FileChooserDialogImpl" timestamp="1600513895253">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2653" y="273" width="424" height="491" key="FileChooserDialogImpl/3840.0.1920.1080/0.27.1920.985/1920.0.1920.1080@1920.0.1920.1080" timestamp="1600513895253" />
+    <state x="2369" y="141" width="1022" height="737" key="SettingsEditor" timestamp="1600513909218">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2369" y="141" width="1022" height="737" key="SettingsEditor/3840.0.1920.1080/0.27.1920.985/1920.0.1920.1080@1920.0.1920.1080" timestamp="1600513909218" />
+    <state x="2571" y="245" width="618" height="548" key="find.popup" timestamp="1600536280463">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2571" y="245" width="618" height="548" key="find.popup/3840.0.1920.1080/0.27.1920.985/1920.0.1920.1080@1920.0.1920.1080" timestamp="1600536280463" />
+    <state x="2543" y="222" width="672" height="678" key="search.everywhere.popup" timestamp="1600513869958">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2543" y="222" width="672" height="678" key="search.everywhere.popup/3840.0.1920.1080/0.27.1920.985/1920.0.1920.1080@1920.0.1920.1080" timestamp="1600513869958" />
+  </component>
+</project>
