@@ -1,0 +1,13 @@
+
+.*.sw?
+.idea/*
+*.pyc
+__pycache__/
+*.pytest_cache/
+.cache
+build
+dist/
+/env
+MANIFEST
+*.egg-info
+.tox
